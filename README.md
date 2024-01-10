@@ -38,9 +38,16 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb)
 
+### Now Playing — Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
+</a>
+</p>
+
+
 ###
 
-<h2 align="left">Connect with me:</h2>
 
 ###
 
