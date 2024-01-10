@@ -38,9 +38,7 @@
 
 <br>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb&unique={true|1|on|yes})
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb&count=1)
 
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&redirect=true">
