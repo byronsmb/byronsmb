@@ -46,6 +46,8 @@
 </p>
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb&count={2})
+
 ###
 
 
