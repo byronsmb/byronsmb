@@ -36,6 +36,8 @@
   <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/byronsmb/byronsmb/output/github-snake.svg)" />
 </picture>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb)
+
 ###
 
 <h2 align="left">Connect with me:</h2>
