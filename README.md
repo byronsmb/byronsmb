@@ -41,6 +41,12 @@
 ###
 
 <div align="left">
+  <a href="https://www.google.com/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Texto Alternativo">
+  </a>
+  <a href="[url_del_enlace](https://www.google.com/)">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Texto Alternativo">
+  </a>
   [![image](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)(https://www.google.com/)
   [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />](https://www.google.com/)
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">](https://www.google.com/)
