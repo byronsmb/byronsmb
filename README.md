@@ -36,20 +36,21 @@
   <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/byronsmb/byronsmb/output/github-snake.svg)" />
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb)
+<br>
 
-### Now Playing — Spotify 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb&unique={true|1|on|yes})
+
+
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
 </a>
 </p>
 
+<br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=byronsmb&count={2})
 
-###
-
+<h2 align="left">Contact me</h2>
 
 ###
 
