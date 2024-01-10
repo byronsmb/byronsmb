@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/byronsmb/byronsmb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/byronsmb/byronsmb/output/github-snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
