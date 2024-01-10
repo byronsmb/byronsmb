@@ -41,6 +41,7 @@
 ###
 
 <div align="left">
+  [![image](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)(https://www.google.com/)
   [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />](https://www.google.com/)
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">](https://www.google.com/)
   
