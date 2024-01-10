@@ -43,8 +43,7 @@
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=byronsmb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" 
-       width="200" 
-       height="260"/>
+       />
 </a>
 </p>
 
